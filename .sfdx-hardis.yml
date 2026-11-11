@@ -1,0 +1,4 @@
+instanceUrl: https://orgfarm-3892286f4c-dev-ed.develop.my.salesforce.com
+targetUsername: wenzel.liebsch.2902b9bbd068@agentforce.com
+msTeamsWebhookUrl:
+deploymentRepository: https://github.com/wenzelliebsch/sfdx-hardis-training-monitoring
