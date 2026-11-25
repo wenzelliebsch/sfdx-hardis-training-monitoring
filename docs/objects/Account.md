@@ -7,10 +7,10 @@
 
 ```mermaid
 graph TD
-Account["Account"]:::mainObject
-click Account "../Account/"
 Installation__c["Installation"]:::customObject
 click Installation__c "../Installation__c/"
+Account["Account"]:::mainObject
+click Account "../Account/"
 
 Installation__c -->|Account__c| Account
 
