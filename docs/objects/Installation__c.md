@@ -9,10 +9,10 @@
 graph TD
 Panel_Batch__c["Panel Batch"]:::customObject
 click Panel_Batch__c "../Panel_Batch__c/"
-Installation__c["Installation"]:::mainObject
-click Installation__c "../Installation__c/"
 Handover_Item__c["Handover Item"]:::customObject
 click Handover_Item__c "../Handover_Item__c/"
+Installation__c["Installation"]:::mainObject
+click Installation__c "../Installation__c/"
 Account["Account"]:::object
 click Account "../Account/"
 
